@@ -49,4 +49,11 @@ flutter pub get
 flutter run
 
 ---
+
+## 📱 App Screenshots
+
+![Home Screen](demo/home.jpeg)
+
+![Profile Screen](demo/profile.jpeg)
+
 Made with ❤️ using Flutter.
