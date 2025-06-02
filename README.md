@@ -52,8 +52,8 @@ flutter run
 
 ## 📱 App Screenshots
 
-![Home Screen](demo/home.jpeg)
+![Home Screen](output/home.jpeg)
 
-![Profile Screen](demo/profile.jpeg)
+![Profile Screen](output/profile.jpeg)
 
 Made with ❤️ using Flutter.
