@@ -52,8 +52,9 @@ flutter run
 
 ## 📱 App Screenshots
 
+### 🏠 Home Screen
 ![Home Screen](output/home.jpeg)
 
+### 👤 Profile Screen
 ![Profile Screen](output/profile.jpeg)
-
 Made with ❤️ using Flutter.
