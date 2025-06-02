@@ -53,10 +53,10 @@ flutter run
 ## 📱 App Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](output/home.jpeg)
+![Home Screen](output/home.jpg)
 
 ### 👤 Profile Screen
-![Profile Screen](output/profile.jpeg)
+![Profile Screen](output/profile.jpg)
 
 
 Made with ❤️ using Flutter.
