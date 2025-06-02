@@ -17,6 +17,13 @@ A basic Flutter app that displays a user's profile using widgets and navigation.
   - 2-second loading screen
   - Model class for profile data
 
+## 📱 App Screenshots
+
+### 🏠 Home Screen
+![Home Screen](output/home.jpg)
+
+### 👤 Profile Screen
+![Profile Screen](output/profile.jpg)
 ## 📁 Folder Structure
 
 ```text
@@ -50,13 +57,7 @@ flutter run
 
 ---
 
-## 📱 App Screenshots
 
-### 🏠 Home Screen
-![Home Screen](output/home.jpg)
-
-### 👤 Profile Screen
-![Profile Screen](output/profile.jpg)
 
 
 Made with ❤️ using Flutter.
