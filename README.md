@@ -19,18 +19,19 @@ A basic Flutter app that displays a user's profile using widgets and navigation.
 
 ## 📁 Folder Structure
 
+```text
 lib/
 ├── main.dart
 ├── screens/
-│ ├── home_screen.dart
-│ └── profile_screen.dart
+│   ├── home_screen.dart
+│   └── profile_screen.dart
 ├── widgets/
-│ └── profile_info_card.dart
+│   └── profile_info_card.dart
 ├── models/
-│ └── profile.dart
+│   └── profile.dart
 assets/
 └── images/
-└── profile.jpg
+    └── profile.jpg
 
 ## 🚀 Getting Started
 
