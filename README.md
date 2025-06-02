@@ -32,3 +32,20 @@ assets/
 └── images/
 └── profile.jpg
 
+## 🚀 Getting Started
+
+1. Clone the repo:
+
+git clone https://github.com/0xsreejith/profile-app.git
+cd flutter-profile-app
+
+2. Get packages:
+
+flutter pub get
+
+3. Run the app:
+
+flutter run
+
+---
+Made with ❤️ using Flutter.
